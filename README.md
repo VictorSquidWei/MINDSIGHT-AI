@@ -5,6 +5,8 @@ The Repo contains the technical report as well as our sales pitch
 
 Demo Video:
 
-https://www.youtube.com/watch?v=KlIze9d-BfE
+<video width="320" height="240" controls>
+  <source src="https://youtu.be/KlIze9d-BfE?si=7Yhh-6NR_Uelyaa_" type="video/mp4">
+</video>
 
 Press play to see the video.
