@@ -8,6 +8,9 @@ The Repo contains the technical report as well as our pitch PPT
 https://youtu.be/KlIze9d-BfE?si=7Yhh-6NR_Uelyaa_ 
 
 
+      
+
+
 
 **Link to MindSightAI:** https://chat.openai.com/g/g-eL5JWvqKS-mindsight-ai 
 
