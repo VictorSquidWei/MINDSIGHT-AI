@@ -5,8 +5,6 @@ The Repo contains the technical report as well as our sales pitch
 
 Demo Video:
 
-<video width="320" height="240" controls>
-  <source src="https://youtu.be/KlIze9d-BfE?si=7Yhh-6NR_Uelyaa_" type="video/mp4">
-</video>
+[![](https://markdown-videos-api.jorgenkh.no/youtube/{video_id})]([https://youtu.be/{video_id}](https://youtu.be/KlIze9d-BfE?si=7Yhh-6NR_Uelyaa_)https://youtu.be/KlIze9d-BfE?si=7Yhh-6NR_Uelyaa_)
 
 Press play to see the video.
