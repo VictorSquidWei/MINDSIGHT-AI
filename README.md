@@ -1,7 +1,7 @@
 # MINDSIGHT-AI
 Artificial Intelligence based model designed to assist in the early detection of mental disorders among college students
 
-The Repo contains the technical report as well as our sales pitch
+The Repo contains the technical report as well as our pitch PPT
 
 Demo Video:
 
